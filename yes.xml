@@ -59,7 +59,7 @@
             <title>My first HTML project</title>
             <description>An HTML based portfolio containing my hobbies and an in depth about me.</description>
             <link-group>
-              <link href="https://lifeinvadersocial.herokuapp.com/" intent="primary">Live app</link>
+              <link href="https://sora570.github.io/port/" intent="primary">Live app</link>
             </link-group>
           </details>
         </project>
@@ -109,4 +109,5 @@
     </socials>
   </footer>
 </page>
+
 
