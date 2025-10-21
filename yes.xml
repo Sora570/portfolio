@@ -68,7 +68,7 @@
             <title>News article using HTML</title>
             <description>A news article containing personal news I like.</description>
             <link-group>
-              <link href="https://nextjs-chakra-chatapp-qnhb6dq42-bscottnz.vercel.app/" intent="primary">Live app</link>
+              <link href="https://sora570.github.io/news/" intent="primary">Live app</link>
             </link-group>
           </details>
           <preview src="imgs/news.png"/>
@@ -109,5 +109,6 @@
     </socials>
   </footer>
 </page>
+
 
 
